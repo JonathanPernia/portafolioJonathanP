@@ -51,3 +51,5 @@ $(document).ready(function(){
     }
   });
 });
+
+function move_scroll(seccion){ 	$('html').animate({ 		scrollTop: $("#"+seccion).offset().top 	}, 700); }  
