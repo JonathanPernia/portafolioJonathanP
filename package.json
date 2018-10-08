@@ -1,0 +1,24 @@
+{
+  "name": "personal-master",
+  "version": "1.0.0",
+  "description": "Portafolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "dev": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanPernia/portafolioJonathanP.git"
+  },
+  "author": "Jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanPernia/portafolioJonathanP/issues"
+  },
+  "homepage": "https://github.com/JonathanPernia/portafolioJonathanP#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
